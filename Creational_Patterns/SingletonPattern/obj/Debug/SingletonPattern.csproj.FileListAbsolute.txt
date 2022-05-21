@@ -1,0 +1,16 @@
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\bin\Debug\EntityFramework.dll
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\bin\Debug\EntityFramework.xml
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.csproj.AssemblyReference.cache
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.Form1.resources
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.cache
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.csproj.CopyComplete
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\ENES PC\source\repos\MVC\Creational_Patterns\SingletonPattern\obj\Debug\SingletonPattern.pdb
