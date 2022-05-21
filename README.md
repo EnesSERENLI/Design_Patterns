@@ -6,6 +6,6 @@
 
 ## [***1- Creational Patterns***](https://github.com/EnesSERENLI/Design_Pattenrs/tree/main/Creational_Patterns)
 
-## [***2- Structural Patterns***](#)
+## [***2- Structural Patterns***](https://github.com/EnesSERENLI/Design_Pattenrs/tree/main/Scructural_Patterns)
 
 ## [***3- Behavioral Patterns***](#)
