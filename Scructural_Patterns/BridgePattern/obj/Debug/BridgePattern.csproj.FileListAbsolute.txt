@@ -1,0 +1,8 @@
+C:\Users\ENES PC\Desktop\Design Patterns\Scructural_Patterns\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Users\ENES PC\Desktop\Design Patterns\Scructural_Patterns\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\ENES PC\Desktop\Design Patterns\Scructural_Patterns\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\ENES PC\Desktop\Design Patterns\Scructural_Patterns\BridgePattern\obj\Debug\BridgePattern.csproj.AssemblyReference.cache
+C:\Users\ENES PC\Desktop\Design Patterns\Scructural_Patterns\BridgePattern\obj\Debug\BridgePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENES PC\Desktop\Design Patterns\Scructural_Patterns\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\ENES PC\Desktop\Design Patterns\Scructural_Patterns\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Users\ENES PC\Desktop\Design Patterns\Scructural_Patterns\BridgePattern\obj\Debug\BridgePattern.pdb
