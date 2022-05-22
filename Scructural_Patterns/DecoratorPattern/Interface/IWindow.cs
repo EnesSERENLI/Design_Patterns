@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern.Interface
 {
-    public interface IWindow //Öncelikle pencere için bir interface yada abstrack class oluşturabiliriz..
+    public interface IWindow //Öncelikle pencere için bir interface yada abstract class oluşturabiliriz..
     {
         string Draw();
 
