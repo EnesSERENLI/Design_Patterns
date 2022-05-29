@@ -20,7 +20,7 @@ namespace SingletonPattern
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            NorthwindEntities db = DbTools.InstanceNorthwind; //Singleton
+            NorthwindEntities db = DbTools.InstanceNorthwind; //Singleton 
            
             dataGridView1.DataSource = db.Products.ToList(); //List of products... 
         }
