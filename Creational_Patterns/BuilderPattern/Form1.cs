@@ -48,7 +48,7 @@ namespace BuilderPattern
 
             newEmployee.AddEmployee(employee,txtFirstName.Text,txtLastName.Text,nudSalary.Value,isManager);
 
-            ListView();
+            ListView(); 
         }
     }
 }
