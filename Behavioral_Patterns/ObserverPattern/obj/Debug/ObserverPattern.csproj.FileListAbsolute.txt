@@ -1,0 +1,8 @@
+C:\Users\ENES PC\Desktop\Behavioral_Patterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\ENES PC\Desktop\Behavioral_Patterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\ENES PC\Desktop\Behavioral_Patterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\ENES PC\Desktop\Behavioral_Patterns\ObserverPattern\obj\Debug\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\ENES PC\Desktop\Behavioral_Patterns\ObserverPattern\obj\Debug\ObserverPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENES PC\Desktop\Behavioral_Patterns\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\ENES PC\Desktop\Behavioral_Patterns\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\ENES PC\Desktop\Behavioral_Patterns\ObserverPattern\obj\Debug\ObserverPattern.pdb

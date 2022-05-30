@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Creational_Patterns",
-    "\\Creational_Patterns\\BuilderPattern"
+    "\\Creational_Patterns\\BuilderPattern",
+    "\\Structural_Patterns",
+    "\\Structural_Patterns\\DecoratorPattern",
+    "\\Structural_Patterns\\DecoratorPattern\\Interface"
   ],
-  "SelectedNode": "\\Creational_Patterns\\BuilderPattern\\Form1.cs",
+  "SelectedNode": "\\Structural_Patterns\\DecoratorPattern\\Interface\\IWindow.cs",
   "PreviewInSolutionExplorer": false
 }
